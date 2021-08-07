@@ -2,9 +2,7 @@
 
 <br />
 
-<div display="flex" align="center">
-
-[![projects](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=projects)](https://projects.colegaw.in)
+<div align="center">
 
 [![projects](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=projects)](https://projects.colegaw.in)
 
