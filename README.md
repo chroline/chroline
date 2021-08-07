@@ -15,9 +15,13 @@
 
 <br />
 
-<p align="center">
-You may have seen me around on Medium, Hashnode, or Dev.to. Or, maybe you've seen my projects on GitHub or Twitter. Regardless of where you came from, all are welcome :) Thanks for checking out my GitHub!
-</p>
+<div align="center">
+
+You may have seen me around on [Medium](https://medium.com/@colegawin), [Hashnode](https://blog.colegaw.in), or [Dev.to](https://dev.to/chroline). Or, maybe you've seen my projects on [GitHub](https://github.com/chroline) or [Twitter](https://twitter.com/colegawin_). Regardless of where you came from, all are welcome :) Thanks for checking out my GitHub!
+
+[![BUY ME A COFFEE](https://img.shields.io/badge/-buy%20me%20a%20coffee-black?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/colegawin)
+
+</div>
 
 <!--
 **chroline/chroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
