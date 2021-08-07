@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hey, I’m Cole Gawin, freelance brand-gineer.](/gh-profile.png)
 
 <!--
 **chroline/chroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
