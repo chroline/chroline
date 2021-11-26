@@ -1,4 +1,4 @@
-![Hey, I’m Cole Gawin, freelance brand-gineer.](/assets/gh-profile.png)
+[![Hey, I’m Cole Gawin, freelance brand-gineer.](/assets/gh-profile.png)](https://colegaw.in)
 
 ---
 
