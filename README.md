@@ -1,16 +1,5 @@
 ![Hey, I’m Cole Gawin, freelance brand-gineer.](/assets/gh-profile.png)
 
-<br />
-
-<div align="center">
-
-[![projects](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=projects)](https://projects.colegaw.in)
-
-</div>
-
-
-<br />
-
 ---
 
 <br />
