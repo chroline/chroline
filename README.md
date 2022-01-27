@@ -3,6 +3,7 @@
 ---
 
 <br />
+<br />
 
 <div align="center">
 
@@ -10,19 +11,23 @@ You may have seen me around on [Medium](https://medium.com/@colegawin), [Hashnod
 
 [![BUY ME A COFFEE](https://img.shields.io/badge/-buy%20me%20a%20coffee-black?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/colegawin)
 
+<br />
+  
 </div>
 
-<!--
-**chroline/chroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+### `Checkout` these projects!
+
+<br />
+
+[![well_app](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=well_app)](https://github.com/chroline/well_app)
+[![words-aas](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=words-aas)](https://github.com/chroline/words-aas)
+[![lightning-share](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=lightning-share)](https://github.com/chroline/lightning-share)
+[![handydocs](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=handydocs)](https://github.com/chroline/handydocs)
+
+</div>
