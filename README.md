@@ -21,7 +21,7 @@ You may have seen me around on [Medium](https://medium.com/@colegawin), [Hashnod
 
 <div align="center">
 
-### `Checkout` these projects!
+### `stash` these projects in your memory!
 
 <br />
 
@@ -29,5 +29,17 @@ You may have seen me around on [Medium](https://medium.com/@colegawin), [Hashnod
 [![words-aas](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=words-aas)](https://github.com/chroline/words-aas)
 [![lightning-share](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=lightning-share)](https://github.com/chroline/lightning-share)
 [![handydocs](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=handydocs)](https://github.com/chroline/handydocs)
+
+<br />
+
+</div>
+
+---
+
+<br />
+
+<div align="center">
+
+### ...and `checkout` what I'm working on in my pinned projects!
 
 </div>
