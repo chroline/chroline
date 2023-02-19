@@ -28,7 +28,7 @@ You may have seen me around on [Medium](https://medium.com/@colegawin), [Hashnod
 [![well_app](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=well_app)](https://github.com/chroline/well_app)
 [![words-aas](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=words-aas)](https://github.com/chroline/words-aas)
 [![lightning-share](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=lightning-share)](https://github.com/chroline/lightning-share)
-[![handydocs](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=handydocs)](https://github.com/chroline/handydocs)
+[![supersesh](https://github-readme-stats.vercel.app/api/pin/?username=chroline&repo=supersesh)](https://github.com/chroline/supersesh)
 
 <br />
 
